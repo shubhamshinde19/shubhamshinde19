@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shubham Shinde</h1>
-<h3 align="center">A passionate software developer from India, creating efficient and innovative solutions for modern challenges.</h3>
-
 <p align="center">
   <img src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1732016344~exp=1732019944~hmac=8a8638369a1c4cdd9d382a95a1f3e929d3c6faf56dbe56a41681a72639ffb2f1&w=740" alt="Profile Banner" width="100%"/>
 </p>
+<h1 align="center">Hi 👋, I'm Shubham Shinde</h1>
+<h3 align="center">A passionate software developer from India, creating efficient and innovative solutions for modern challenges.</h3>
 
 - 🌱 I’m currently learning **Spring Boot**
 
