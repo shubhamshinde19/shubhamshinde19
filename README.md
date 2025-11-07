@@ -11,22 +11,18 @@
   <img src="https://img.shields.io/github/followers/your-github-username?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-<div align="center">
-  
-  ### 💫 About Me
-  
-  ```javascript
-  const shubham = {
-      location: "India 🇮🇳",
-      currentFocus: "Mastering Node.js & Full-Stack Development",
-      learning: ["Backend Architecture", "Cloud Technologies", "DevOps"],
-      funFact: "I debug with console.log and I'm not ashamed! 😄",
-      askMeAbout: ["Web Dev", "Tech", "Problem Solving"],
-      reachMe: "shindeshubham6129@gmail.com"
-  };
-  ```
-  
-</div>
+<h2 align="center">💫 About Me</h2>
+
+```javascript
+const shubham = {
+    location: "India 🇮🇳",
+    currentFocus: "Mastering Node.js & Full-Stack Development",
+    learning: ["Backend Architecture", "Cloud Technologies", "DevOps"],
+    funFact: "I debug with console.log and I'm not ashamed! 😄",
+    askMeAbout: ["Web Dev", "Tech", "Problem Solving"],
+    reachMe: "shindeshubham6129@gmail.com"
+};
+```
 
 ---
 
